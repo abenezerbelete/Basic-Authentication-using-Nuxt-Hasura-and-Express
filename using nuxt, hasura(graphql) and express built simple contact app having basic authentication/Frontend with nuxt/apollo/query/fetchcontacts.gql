@@ -1,0 +1,10 @@
+query fc($em: uuid!){
+contacts (where: {userId: {_eq: $em}}) {
+    id
+    country
+    email
+    first_name
+    last_name
+    phone
+  }
+}

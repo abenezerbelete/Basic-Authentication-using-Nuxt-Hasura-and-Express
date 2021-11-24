@@ -1,0 +1,12 @@
+query abe{
+  users_aggregate{
+    aggregate{
+      count
+    }
+  }
+  contacts_aggregate{
+    aggregate{
+      count
+    }
+  }
+}
