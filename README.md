@@ -1,4 +1,4 @@
-# nuxt-hasura-graphql-and-express-built-simple-contact-app-having-basic-authentication
+# Basic Authentication using Nuxt, Hasura and Express
 
 # Contact table fields
 ![contact table](https://user-images.githubusercontent.com/94858169/143293713-dc258ab8-e78c-459d-9602-9da93d9b26f0.png)
